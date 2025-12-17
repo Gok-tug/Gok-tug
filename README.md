@@ -19,14 +19,14 @@
 
 <div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-101010?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Solidity](https://img.shields.io/badge/Solidity-101010?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-101010?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-101010?style=for-the-badge&logo=web3.js&logoColor=F16822)
+![.NET](https://img.shields.io/badge/.NET-21262d?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Solidity](https://img.shields.io/badge/Solidity-21262d?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-21262d?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-21262d?style=for-the-badge&logo=web3.js&logoColor=F16822)
 <br/>
-![Avalonia](https://img.shields.io/badge/Avalonia-101010?style=for-the-badge&logo=avaloniaui&logoColor=B73C65)
-![Docker](https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Avalonia](https://img.shields.io/badge/Avalonia-21262d?style=for-the-badge&logo=avaloniaui&logoColor=B73C65)
+![Docker](https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
