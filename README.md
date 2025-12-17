@@ -3,7 +3,7 @@
 **Blockchain Developer | .NET Enthusiast | Web3 Builder**
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fankigg)
-[![Discord](https://img.shields.io/badge/.fanki-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/.fanki-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/169452498891833345)
 
 </div>
 
