@@ -1,6 +1,12 @@
 <div align="center">
 
-**Blockchain Developer | .NET Enthusiast | Web3 Builder**
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=3000&color=58A6FF&center=true&vCenter=true&width=900&height=50&lines=Blockchain+Developer+|.NET+Enthusiast+|+Web3+Builder" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fankigg)
 [![Discord](https://img.shields.io/badge/.fanki-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/169452498891833345)
@@ -13,12 +19,14 @@
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-101010?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Solidity](https://img.shields.io/badge/Solidity-101010?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-101010?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-101010?style=for-the-badge&logo=web3.js&logoColor=F16822)
+<br/>
+![Avalonia](https://img.shields.io/badge/Avalonia-101010?style=for-the-badge&logo=avaloniaui&logoColor=B73C65)
+![Docker](https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 </div>
 
