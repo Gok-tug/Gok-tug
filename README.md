@@ -1,7 +1,5 @@
 <div align="center">
 
-# Hey, I'm Goktug 👋
-
 **Blockchain Developer | .NET Enthusiast | Web3 Builder**
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/fankigg)
