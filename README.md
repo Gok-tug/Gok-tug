@@ -37,7 +37,7 @@
 <div align="center">
 
 <img height="165" align="center" src="https://readme-stats-umber-theta-98.vercel.app/api?username=Gok-tug&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&hide_rank=true" />
-<img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gok-tug&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img height="165" align="center" src="https://readme-stats-umber-theta-98.vercel.app/api/top-langs?username=Gok-tug&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&layout=compact" />
 
 </div>
 
